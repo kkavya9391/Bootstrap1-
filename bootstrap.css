@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Hero Banner */
+.hero {
+    height: 60vh;
+    background: url('https://via.placeholder.com/1920x600') center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
